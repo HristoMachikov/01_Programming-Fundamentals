@@ -45,4 +45,4 @@ The all course Programming Fundamentals in SoftUni
 <a href=""><em>Exam Preparation II - 21.02.2017</em></a></br>
 <a href=""><em>Exam Preparation III - 22.02.2017</em></a></br>
 <a href=""><em>Exam Preparation IV - 23.02.2017</em></a></br>
-<a href=""><em>Practical Åxam - 26.02.2017</em></a></br>
+<a href=""><em>Practical Exam - 26.02.2017</em></a></br>
