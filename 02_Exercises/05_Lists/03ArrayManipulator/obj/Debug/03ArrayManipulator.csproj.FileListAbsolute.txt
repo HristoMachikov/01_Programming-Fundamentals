@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\03ArrayManipulator\bin\Debug\03ArrayManipulator.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\03ArrayManipulator\obj\Debug\03ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\03ArrayManipulator\bin\Debug\03ArrayManipulator.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\03ArrayManipulator\bin\Debug\03ArrayManipulator.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\03ArrayManipulator\obj\Debug\03ArrayManipulator.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\03ArrayManipulator\obj\Debug\03ArrayManipulator.pdb

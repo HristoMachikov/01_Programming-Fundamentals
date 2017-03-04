@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\16InstructionSet\bin\Debug\16InstructionSet.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\16InstructionSet\bin\Debug\16InstructionSet.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\16InstructionSet\bin\Debug\16InstructionSet.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\16InstructionSet\obj\Debug\16InstructionSet.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\16InstructionSet\obj\Debug\16InstructionSet.pdb

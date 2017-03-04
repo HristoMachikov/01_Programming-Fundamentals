@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\05MagicExchangeableWords\bin\Debug\05MagicExchangeableWords.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\05MagicExchangeableWords\bin\Debug\05MagicExchangeableWords.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\05MagicExchangeableWords\bin\Debug\05MagicExchangeableWords.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\05MagicExchangeableWords\obj\Debug\05MagicExchangeableWords.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\05MagicExchangeableWords\obj\Debug\05MagicExchangeableWords.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\05MagicExchangeableWords\obj\Debug\05MagicExchangeableWords.pdb

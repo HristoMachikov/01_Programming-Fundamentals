@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb

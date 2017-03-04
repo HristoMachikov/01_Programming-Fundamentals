@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\12RectangleProperties\bin\Debug\12RectangleProperties.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\12RectangleProperties\bin\Debug\12RectangleProperties.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\12RectangleProperties\bin\Debug\12RectangleProperties.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\12RectangleProperties\obj\Debug\12RectangleProperties.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\12RectangleProperties\obj\Debug\12RectangleProperties.pdb

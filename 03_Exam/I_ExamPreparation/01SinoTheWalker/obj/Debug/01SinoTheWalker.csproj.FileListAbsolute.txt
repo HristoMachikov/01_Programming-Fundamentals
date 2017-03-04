@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\01SinoTheWalker\bin\Debug\01SinoTheWalker.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\01SinoTheWalker\bin\Debug\01SinoTheWalker.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\01SinoTheWalker\bin\Debug\01SinoTheWalker.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\01SinoTheWalker\obj\Debug\01SinoTheWalker.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\01SinoTheWalker\obj\Debug\01SinoTheWalker.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\01SinoTheWalker\obj\Debug\01SinoTheWalker.pdb

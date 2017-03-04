@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\04RoliTheCoder\bin\Debug\04RoliTheCoder.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\04RoliTheCoder\bin\Debug\04RoliTheCoder.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\04RoliTheCoder\bin\Debug\04RoliTheCoder.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\04RoliTheCoder\obj\Debug\04RoliTheCoder.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\04RoliTheCoder\obj\Debug\04RoliTheCoder.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\04RoliTheCoder\obj\Debug\04RoliTheCoder.pdb

@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\02_Data Types and Variables\06_Problem\bin\Debug\06_Problem.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\02_Data Types and Variables\06_Problem\bin\Debug\06_Problem.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\02_Data Types and Variables\06_Problem\bin\Debug\06_Problem.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\02_Data Types and Variables\06_Problem\obj\Debug\06_Problem.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\02_Data Types and Variables\06_Problem\obj\Debug\06_Problem.pdb

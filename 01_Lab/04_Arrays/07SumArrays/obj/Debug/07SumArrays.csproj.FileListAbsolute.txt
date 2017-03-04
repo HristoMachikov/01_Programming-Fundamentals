@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\07SumArrays\bin\Debug\07SumArrays.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\07SumArrays\bin\Debug\07SumArrays.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\07SumArrays\bin\Debug\07SumArrays.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\07SumArrays\obj\Debug\07SumArrays.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\07SumArrays\obj\Debug\07SumArrays.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\07SumArrays\obj\Debug\07SumArrays.pdb

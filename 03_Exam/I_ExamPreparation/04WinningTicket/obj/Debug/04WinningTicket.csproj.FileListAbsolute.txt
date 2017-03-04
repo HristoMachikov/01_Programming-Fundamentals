@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\04WinningTicket\bin\Debug\04WinningTicket.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\04WinningTicket\bin\Debug\04WinningTicket.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\04WinningTicket\bin\Debug\04WinningTicket.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\04WinningTicket\obj\Debug\04WinningTicket.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\04WinningTicket\obj\Debug\04WinningTicket.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\I_ExamPreparation\04WinningTicket\obj\Debug\04WinningTicket.csprojResolveAssemblyReference.cache

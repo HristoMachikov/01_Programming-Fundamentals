@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\04TrippleSum\bin\Debug\04TrippleSum.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\04TrippleSum\bin\Debug\04TrippleSum.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\04TrippleSum\bin\Debug\04TrippleSum.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\04TrippleSum\obj\Debug\04TrippleSum.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\04TrippleSum\obj\Debug\04TrippleSum.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\04TrippleSum\obj\Debug\04TrippleSum.csprojResolveAssemblyReference.cache

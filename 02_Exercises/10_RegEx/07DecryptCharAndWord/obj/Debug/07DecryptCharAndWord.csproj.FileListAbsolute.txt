@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\07DecryptCharAndWord\bin\Debug\07DecryptCharAndWord.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\07DecryptCharAndWord\bin\Debug\07DecryptCharAndWord.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\07DecryptCharAndWord\bin\Debug\07DecryptCharAndWord.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\07DecryptCharAndWord\obj\Debug\07DecryptCharAndWord.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\07DecryptCharAndWord\obj\Debug\07DecryptCharAndWord.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\07DecryptCharAndWord\obj\Debug\07DecryptCharAndWord.csprojResolveAssemblyReference.cache

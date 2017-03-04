@@ -1,0 +1,45 @@
+Text[2].Trim() - трие празните интервали
+.Split(separators,stringsplitoptions,Removeemptyspace)
+
+alfabet[i-'a']=i;
+
+foreach - ката for но няма индиксатор.
+В foreach  не се променят мациви, а се ползват самокато read only.
+
+var text "abcd"
+text[2]='t'; -  нестава.Стринга е read only.
+
+
+var text "abcd".toCharArray();
+text[2]='t';
+var secondtext=new string(text);
+
+Var Types  се копират.Клонират се при всяко повикване, и не се знае от къде идват.
+Ref Type - Подават се сами себе си. Не се клонират.
+
+- бавен начин за конкатениране на стринг:
+.Select(int.Parse).ToArray();
+Select(int.Parse) изисква using System.Linq;
+
+- по-бърз метод за конкатиниране на стринг
+using.Sistem.Text;
+var result=new StringBuilder();
+result.Append(numbers[i]);
+CW(result.toString());
+
+var result = string.Join(", ",numbers) - за принтиране на резултат(стринг) на конзолата
+
+
+using.System.Linq;
+cw(revers.Where(x=>x%2==0)
+cw(rever.Revers(numbers))
+Може да се ревърснат числата с верменна променлива. - 16:20 (1:50)
+
+var номер на клетка =брой обикаляния % дължина на масива;
+
+clone to masiv:
+var numb= new int[10];
+var secNumb=numb.ToArray();
+ili s for cikal
+
+https://www.mathsisfun.com/numbers/rounding-methods.html -math.Round

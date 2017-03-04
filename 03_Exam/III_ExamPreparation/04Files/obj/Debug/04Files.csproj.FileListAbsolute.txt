@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\04Files\bin\Debug\04Files.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\04Files\bin\Debug\04Files.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\04Files\bin\Debug\04Files.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\04Files\obj\Debug\04Files.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\04Files\obj\Debug\04Files.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\04Files\obj\Debug\04Files.csprojResolveAssemblyReference.cache

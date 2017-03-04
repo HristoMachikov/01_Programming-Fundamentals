@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\12MasterNumber\bin\Debug\12MasterNumber.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\12MasterNumber\bin\Debug\12MasterNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\12MasterNumber\bin\Debug\12MasterNumber.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\12MasterNumber\obj\Debug\12MasterNumber.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\12MasterNumber\obj\Debug\12MasterNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\12MasterNumber\obj\Debug\12MasterNumber.pdb

@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\05SortNumbers\bin\Debug\05SortNumbers.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\05SortNumbers\bin\Debug\05SortNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\05SortNumbers\bin\Debug\05SortNumbers.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\05SortNumbers\obj\Debug\05SortNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\05SortNumbers\obj\Debug\05SortNumbers.pdb

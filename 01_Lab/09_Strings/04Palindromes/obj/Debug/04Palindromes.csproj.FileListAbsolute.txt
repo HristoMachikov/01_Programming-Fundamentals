@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\04Palindromes\bin\Debug\04Palindromes.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\04Palindromes\bin\Debug\04Palindromes.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\04Palindromes\bin\Debug\04Palindromes.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\04Palindromes\obj\Debug\04Palindromes.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\04Palindromes\obj\Debug\04Palindromes.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\04Palindromes\obj\Debug\04Palindromes.csprojResolveAssemblyReference.cache

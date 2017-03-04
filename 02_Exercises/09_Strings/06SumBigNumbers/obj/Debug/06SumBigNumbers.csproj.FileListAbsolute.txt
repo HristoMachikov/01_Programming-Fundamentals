@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\06SumBigNumbers\bin\Debug\06SumBigNumbers.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\06SumBigNumbers\bin\Debug\06SumBigNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\06SumBigNumbers\bin\Debug\06SumBigNumbers.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\06SumBigNumbers\obj\Debug\06SumBigNumbers.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\06SumBigNumbers\obj\Debug\06SumBigNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\06SumBigNumbers\obj\Debug\06SumBigNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\02LineNumbers\bin\Debug\02LineNumbers.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\02LineNumbers\bin\Debug\02LineNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\02LineNumbers\bin\Debug\02LineNumbers.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\02LineNumbers\obj\Debug\02LineNumbers.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\02LineNumbers\obj\Debug\02LineNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\02LineNumbers\obj\Debug\02LineNumbers.pdb

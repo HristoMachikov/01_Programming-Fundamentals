@@ -1,0 +1,1 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\10_RegEx\01MatchFullName\bin\Debug\01MatchFullName.exe.config

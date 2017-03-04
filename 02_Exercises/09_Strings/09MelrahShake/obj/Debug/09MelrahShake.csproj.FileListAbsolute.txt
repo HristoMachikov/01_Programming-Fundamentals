@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\09MelrahShake\bin\Debug\09MelrahShake.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\09MelrahShake\bin\Debug\09MelrahShake.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\09MelrahShake\bin\Debug\09MelrahShake.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\09MelrahShake\obj\Debug\09MelrahShake.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\09MelrahShake\obj\Debug\09MelrahShake.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\09MelrahShake\obj\Debug\09MelrahShake.pdb

@@ -1,0 +1,15 @@
+ToLower() - по-бавно - първо минава през целия стринг, и после сравнява.
+2:38 - сравнение на обекти от речник;
+
+усинг System Diagnostics;
+var  stopwatch =new Stopwatch(); =Stopwatch.StartNew();
+stopwatch.Start();  
+stopwatch.Stop();
+stopwatch.Elapsed();
+
+HashSet<>() e като List<>() с следните разлики:
+- няма индексатор;
+- по-бързо търси с Contain;
+- пази само уникални стойности;
+
+Всяка една операция върху стринг връща НОВ стринг.

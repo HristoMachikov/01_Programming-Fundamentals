@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\01SoftuniCoffeeOrders\bin\Debug\01SoftuniCoffeeOrders.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\01SoftuniCoffeeOrders\bin\Debug\01SoftuniCoffeeOrders.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\01SoftuniCoffeeOrders\bin\Debug\01SoftuniCoffeeOrders.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\01SoftuniCoffeeOrders\obj\Debug\01SoftuniCoffeeOrders.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\01SoftuniCoffeeOrders\obj\Debug\01SoftuniCoffeeOrders.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\III_ExamPreparation\01SoftuniCoffeeOrders\obj\Debug\01SoftuniCoffeeOrders.pdb

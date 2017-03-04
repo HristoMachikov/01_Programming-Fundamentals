@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\01OddLines\bin\Debug\01OddLines.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\01OddLines\bin\Debug\01OddLines.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\01OddLines\bin\Debug\01OddLines.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\01OddLines\obj\Debug\01OddLines.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\01OddLines\obj\Debug\01OddLines.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\01OddLines\obj\Debug\01OddLines.pdb

@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\04MergeFiles\bin\Debug\04MergeFiles.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\04MergeFiles\obj\Debug\04MergeFiles.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\04MergeFiles\bin\Debug\04MergeFiles.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\04MergeFiles\bin\Debug\04MergeFiles.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\04MergeFiles\obj\Debug\04MergeFiles.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\04MergeFiles\obj\Debug\04MergeFiles.pdb

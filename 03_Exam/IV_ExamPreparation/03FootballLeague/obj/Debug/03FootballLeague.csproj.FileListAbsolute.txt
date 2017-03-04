@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\03FootballLeague\bin\Debug\03FootballLeague.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\03FootballLeague\bin\Debug\03FootballLeague.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\03FootballLeague\bin\Debug\03FootballLeague.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\03FootballLeague\obj\Debug\03FootballLeague.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\03FootballLeague\obj\Debug\03FootballLeague.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\03FootballLeague\obj\Debug\03FootballLeague.csprojResolveAssemblyReference.cache

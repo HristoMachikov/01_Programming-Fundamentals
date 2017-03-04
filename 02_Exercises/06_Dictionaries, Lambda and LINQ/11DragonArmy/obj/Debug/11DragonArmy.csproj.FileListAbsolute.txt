@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\11DragonArmy\bin\Debug\11DragonArmy.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\11DragonArmy\obj\Debug\11DragonArmy.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\11DragonArmy\bin\Debug\11DragonArmy.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\11DragonArmy\bin\Debug\11DragonArmy.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\11DragonArmy\obj\Debug\11DragonArmy.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\11DragonArmy\obj\Debug\11DragonArmy.pdb

@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\02LongestIncreasingSubsequence\bin\Debug\02LongestIncreasingSubsequence.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\02LongestIncreasingSubsequence\bin\Debug\02LongestIncreasingSubsequence.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\02LongestIncreasingSubsequence\bin\Debug\02LongestIncreasingSubsequence.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\02LongestIncreasingSubsequence\obj\Debug\02LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\02LongestIncreasingSubsequence\obj\Debug\02LongestIncreasingSubsequence.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\05_Lists\02LongestIncreasingSubsequence\obj\Debug\02LongestIncreasingSubsequence.pdb

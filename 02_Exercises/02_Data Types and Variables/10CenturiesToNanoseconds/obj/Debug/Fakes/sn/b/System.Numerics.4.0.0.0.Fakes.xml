@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Numerics.4.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:System.Numerics.Fakes.ShimBigInteger">
+            <summary>Shim type of System.Numerics.BigInteger</summary>
+        </member>
+        <member name="M:System.Numerics.Fakes.ShimBigInteger.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Numerics.Fakes.ShimBigInteger.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Numerics.Fakes.ShimBigInteger.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.AbsBigInteger">
+            <summary>Sets the shim of BigInteger.Abs(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.AddBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Add(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.AdditionOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Addition(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.BitwiseAndOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_BitwiseAnd(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.BitwiseOrOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_BitwiseOr(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.CompareBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Compare(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.DecrementOpBigInteger">
+            <summary>Sets the shim of BigInteger.op_Decrement(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.DivRemBigIntegerBigIntegerBigIntegerOut">
+            <summary>Sets the shim of BigInteger.DivRem(BigInteger dividend, BigInteger divisor, BigInteger&amp; remainder)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.DivideBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Divide(BigInteger dividend, BigInteger divisor)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.DivisionOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Division(BigInteger dividend, BigInteger divisor)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.EqualityOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Equality(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.EqualityOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_Equality(BigInteger left, Int64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.EqualityOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_Equality(BigInteger left, UInt64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.EqualityOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_Equality(Int64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.EqualityOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_Equality(UInt64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExclusiveOrOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_ExclusiveOr(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerByte">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerDecimal">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerDouble">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerInt16">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerInt32">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerSByte">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerSingle">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerUInt16">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerUInt32">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpDecimalBigInteger">
+            <summary>Sets the shim of BigInteger.op_Explicit(Decimal value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpDoubleBigInteger">
+            <summary>Sets the shim of BigInteger.op_Explicit(Double value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ExplicitOpSingleBigInteger">
+            <summary>Sets the shim of BigInteger.op_Explicit(Single value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_GreaterThan(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_GreaterThan(BigInteger left, Int64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_GreaterThan(BigInteger left, UInt64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_GreaterThan(Int64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_GreaterThan(UInt64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOrEqualOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_GreaterThanOrEqual(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOrEqualOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_GreaterThanOrEqual(BigInteger left, Int64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOrEqualOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_GreaterThanOrEqual(BigInteger left, UInt64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOrEqualOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_GreaterThanOrEqual(Int64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreaterThanOrEqualOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_GreaterThanOrEqual(UInt64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.GreatestCommonDivisorBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.GreatestCommonDivisor(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpByteBigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(Byte value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpInt16BigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(Int16 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpInt32BigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(Int32 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(Int64 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpSByteBigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(SByte value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpUInt16BigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(UInt16 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpUInt32BigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(UInt32 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ImplicitOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_Implicit(UInt64 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.IncrementOpBigInteger">
+            <summary>Sets the shim of BigInteger.op_Increment(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.InequalityOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Inequality(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.InequalityOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_Inequality(BigInteger left, Int64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.InequalityOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_Inequality(BigInteger left, UInt64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.InequalityOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_Inequality(Int64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.InequalityOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_Inequality(UInt64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LeftShiftOpBigIntegerInt32">
+            <summary>Sets the shim of BigInteger.op_LeftShift(BigInteger value, Int32 shift)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_LessThan(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_LessThan(BigInteger left, Int64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_LessThan(BigInteger left, UInt64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_LessThan(Int64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_LessThan(UInt64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOrEqualOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_LessThanOrEqual(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOrEqualOpBigIntegerInt64">
+            <summary>Sets the shim of BigInteger.op_LessThanOrEqual(BigInteger left, Int64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOrEqualOpBigIntegerUInt64">
+            <summary>Sets the shim of BigInteger.op_LessThanOrEqual(BigInteger left, UInt64 right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOrEqualOpInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_LessThanOrEqual(Int64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LessThanOrEqualOpUInt64BigInteger">
+            <summary>Sets the shim of BigInteger.op_LessThanOrEqual(UInt64 left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.Log10BigInteger">
+            <summary>Sets the shim of BigInteger.Log10(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LogBigInteger">
+            <summary>Sets the shim of BigInteger.Log(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.LogBigIntegerDouble">
+            <summary>Sets the shim of BigInteger.Log(BigInteger value, Double baseValue)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.MaxBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Max(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.MinBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Min(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.MinusOneGet">
+            <summary>Sets the shim of BigInteger.get_MinusOne()</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ModPowBigIntegerBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.ModPow(BigInteger value, BigInteger exponent, BigInteger modulus)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ModulusOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Modulus(BigInteger dividend, BigInteger divisor)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.MultiplyBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Multiply(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.MultiplyOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Multiply(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.NegateBigInteger">
+            <summary>Sets the shim of BigInteger.Negate(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.OneGet">
+            <summary>Sets the shim of BigInteger.get_One()</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.OnesComplementOpBigInteger">
+            <summary>Sets the shim of BigInteger.op_OnesComplement(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ParseString">
+            <summary>Sets the shim of BigInteger.Parse(String value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ParseStringIFormatProvider">
+            <summary>Sets the shim of BigInteger.Parse(String value, IFormatProvider provider)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ParseStringNumberStyles">
+            <summary>Sets the shim of BigInteger.Parse(String value, NumberStyles style)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ParseStringNumberStylesIFormatProvider">
+            <summary>Sets the shim of BigInteger.Parse(String value, NumberStyles style, IFormatProvider provider)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.PowBigIntegerInt32">
+            <summary>Sets the shim of BigInteger.Pow(BigInteger value, Int32 exponent)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.RemainderBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Remainder(BigInteger dividend, BigInteger divisor)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.RightShiftOpBigIntegerInt32">
+            <summary>Sets the shim of BigInteger.op_RightShift(BigInteger value, Int32 shift)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.StaticConstructor">
+            <summary>Sets the shim of BigInteger.BigInteger()</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.SubtractBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.Subtract(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.SubtractionOpBigIntegerBigInteger">
+            <summary>Sets the shim of BigInteger.op_Subtraction(BigInteger left, BigInteger right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.TryParseStringBigIntegerOut">
+            <summary>Sets the shim of BigInteger.TryParse(String value, BigInteger&amp; result)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.TryParseStringNumberStylesIFormatProviderBigIntegerOut">
+            <summary>Sets the shim of BigInteger.TryParse(String value, NumberStyles style, IFormatProvider provider, BigInteger&amp; result)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.UnaryNegationOpBigInteger">
+            <summary>Sets the shim of BigInteger.op_UnaryNegation(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.UnaryPlusOpBigInteger">
+            <summary>Sets the shim of BigInteger.op_UnaryPlus(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimBigInteger.ZeroGet">
+            <summary>Sets the shim of BigInteger.get_Zero()</summary>
+        </member>
+        <member name="T:System.Numerics.Fakes.ShimBigInteger.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:System.Numerics.Fakes.ShimComplex">
+            <summary>Shim type of System.Numerics.Complex</summary>
+        </member>
+        <member name="M:System.Numerics.Fakes.ShimComplex.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Numerics.Fakes.ShimComplex.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Numerics.Fakes.ShimComplex.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.AbsComplex">
+            <summary>Sets the shim of Complex.Abs(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.AcosComplex">
+            <summary>Sets the shim of Complex.Acos(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.AddComplexComplex">
+            <summary>Sets the shim of Complex.Add(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.AdditionOpComplexComplex">
+            <summary>Sets the shim of Complex.op_Addition(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.AsinComplex">
+            <summary>Sets the shim of Complex.Asin(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.AtanComplex">
+            <summary>Sets the shim of Complex.Atan(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ConjugateComplex">
+            <summary>Sets the shim of Complex.Conjugate(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.CosComplex">
+            <summary>Sets the shim of Complex.Cos(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.CoshComplex">
+            <summary>Sets the shim of Complex.Cosh(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.DivideComplexComplex">
+            <summary>Sets the shim of Complex.Divide(Complex dividend, Complex divisor)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.DivisionOpComplexComplex">
+            <summary>Sets the shim of Complex.op_Division(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.EqualityOpComplexComplex">
+            <summary>Sets the shim of Complex.op_Equality(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ExpComplex">
+            <summary>Sets the shim of Complex.Exp(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ExplicitOpBigIntegerComplex">
+            <summary>Sets the shim of Complex.op_Explicit(BigInteger value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ExplicitOpDecimalComplex">
+            <summary>Sets the shim of Complex.op_Explicit(Decimal value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.FromPolarCoordinatesDoubleDouble">
+            <summary>Sets the shim of Complex.FromPolarCoordinates(Double magnitude, Double phase)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpByteComplex">
+            <summary>Sets the shim of Complex.op_Implicit(Byte value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpDoubleComplex">
+            <summary>Sets the shim of Complex.op_Implicit(Double value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpInt16Complex">
+            <summary>Sets the shim of Complex.op_Implicit(Int16 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpInt32Complex">
+            <summary>Sets the shim of Complex.op_Implicit(Int32 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpInt64Complex">
+            <summary>Sets the shim of Complex.op_Implicit(Int64 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpSByteComplex">
+            <summary>Sets the shim of Complex.op_Implicit(SByte value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpSingleComplex">
+            <summary>Sets the shim of Complex.op_Implicit(Single value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpUInt16Complex">
+            <summary>Sets the shim of Complex.op_Implicit(UInt16 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpUInt32Complex">
+            <summary>Sets the shim of Complex.op_Implicit(UInt32 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ImplicitOpUInt64Complex">
+            <summary>Sets the shim of Complex.op_Implicit(UInt64 value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.InequalityOpComplexComplex">
+            <summary>Sets the shim of Complex.op_Inequality(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.Log10Complex">
+            <summary>Sets the shim of Complex.Log10(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.LogComplex">
+            <summary>Sets the shim of Complex.Log(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.LogComplexDouble">
+            <summary>Sets the shim of Complex.Log(Complex value, Double baseValue)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.MultiplyComplexComplex">
+            <summary>Sets the shim of Complex.Multiply(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.MultiplyOpComplexComplex">
+            <summary>Sets the shim of Complex.op_Multiply(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.NegateComplex">
+            <summary>Sets the shim of Complex.Negate(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.PowComplexComplex">
+            <summary>Sets the shim of Complex.Pow(Complex value, Complex power)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.PowComplexDouble">
+            <summary>Sets the shim of Complex.Pow(Complex value, Double power)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.ReciprocalComplex">
+            <summary>Sets the shim of Complex.Reciprocal(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.SinComplex">
+            <summary>Sets the shim of Complex.Sin(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.SinhComplex">
+            <summary>Sets the shim of Complex.Sinh(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.SqrtComplex">
+            <summary>Sets the shim of Complex.Sqrt(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.StaticConstructor">
+            <summary>Sets the shim of Complex.Complex()</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.SubtractComplexComplex">
+            <summary>Sets the shim of Complex.Subtract(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.SubtractionOpComplexComplex">
+            <summary>Sets the shim of Complex.op_Subtraction(Complex left, Complex right)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.TanComplex">
+            <summary>Sets the shim of Complex.Tan(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.TanhComplex">
+            <summary>Sets the shim of Complex.Tanh(Complex value)</summary>
+        </member>
+        <member name="P:System.Numerics.Fakes.ShimComplex.UnaryNegationOpComplex">
+            <summary>Sets the shim of Complex.op_UnaryNegation(Complex value)</summary>
+        </member>
+        <member name="T:System.Numerics.Fakes.ShimComplex.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+    </members>
+</doc>

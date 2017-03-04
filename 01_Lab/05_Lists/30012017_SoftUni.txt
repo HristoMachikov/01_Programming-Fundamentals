@@ -1,0 +1,39 @@
+remove  е обратно на insert. Двете са бавни операции.
+За дълги листове по-добре да се ползват цикли.
+
+listOfNumb.RemoveAll(x=>x%2==0) - маха всички четно
+(x=>x>20 §§ x<40) - маха всички четно
+listOfNumb.FindAll(x=>x%2==0) - остава всички четно
+
+remove и contains - връща true/false
+
+listOfNumb.Count(x=>x==30) - намира 30
+
+addRange - добавя друг лист в съществуващ
+
+listOfNumb.Sort();
+listOfNumb.Reverse();
+
+Листа започва със създаване на 16 клетки и след препълване се удвояват на 32 и т.н.
+
+var list=CRL.Split(' ').Select(int.Parse).ToList();
+list.ForEach(CW);
+
+sort algoritme:
+quick sort
+merge sort
+
+if(squar==int(squar))
+
+var check=char.IsLetter(symbol) - true/false
+      char.IsDigit(symbol)
+
+count[symbol -'a']++; - обяснено е в края на видеото
+
+List<int> nums = 
+	new List<int>() { 1, 2, 3 };
+
+
+
+
+

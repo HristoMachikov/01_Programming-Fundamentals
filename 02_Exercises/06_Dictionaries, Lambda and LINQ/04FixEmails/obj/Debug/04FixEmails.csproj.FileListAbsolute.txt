@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\04FixEmails\bin\Debug\04FixEmails.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\04FixEmails\bin\Debug\04FixEmails.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\04FixEmails\bin\Debug\04FixEmails.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\04FixEmails\obj\Debug\04FixEmails.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\04FixEmails\obj\Debug\04FixEmails.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\04FixEmails\obj\Debug\04FixEmails.pdb

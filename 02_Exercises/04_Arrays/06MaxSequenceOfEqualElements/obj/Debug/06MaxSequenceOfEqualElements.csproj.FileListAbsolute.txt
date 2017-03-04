@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\06MaxSequenceOfEqualElements\bin\Debug\06MaxSequenceOfEqualElements.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\06MaxSequenceOfEqualElements\bin\Debug\06MaxSequenceOfEqualElements.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\06MaxSequenceOfEqualElements\bin\Debug\06MaxSequenceOfEqualElements.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\06MaxSequenceOfEqualElements\obj\Debug\06MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\06MaxSequenceOfEqualElements\obj\Debug\06MaxSequenceOfEqualElements.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\06MaxSequenceOfEqualElements\obj\Debug\06MaxSequenceOfEqualElements.pdb

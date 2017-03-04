@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\PracticalЕxam\04HornetArmada\bin\Debug\04HornetArmada.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\PracticalЕxam\04HornetArmada\bin\Debug\04HornetArmada.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\PracticalЕxam\04HornetArmada\bin\Debug\04HornetArmada.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\PracticalЕxam\04HornetArmada\obj\Debug\04HornetArmada.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\PracticalЕxam\04HornetArmada\obj\Debug\04HornetArmada.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\PracticalЕxam\04HornetArmada\obj\Debug\04HornetArmada.pdb

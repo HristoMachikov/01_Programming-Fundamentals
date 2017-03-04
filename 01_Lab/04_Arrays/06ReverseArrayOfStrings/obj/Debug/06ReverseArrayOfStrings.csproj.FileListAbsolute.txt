@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\06ReverseArrayOfStrings\bin\Debug\06ReverseArrayOfStrings.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\06ReverseArrayOfStrings\bin\Debug\06ReverseArrayOfStrings.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\06ReverseArrayOfStrings\bin\Debug\06ReverseArrayOfStrings.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\06ReverseArrayOfStrings\obj\Debug\06ReverseArrayOfStrings.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\06ReverseArrayOfStrings\obj\Debug\06ReverseArrayOfStrings.pdb

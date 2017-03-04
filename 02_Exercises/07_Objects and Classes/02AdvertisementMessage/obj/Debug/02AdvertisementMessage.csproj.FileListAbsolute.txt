@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\02AdvertisementMessage\bin\Debug\02AdvertisementMessage.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\02AdvertisementMessage\bin\Debug\02AdvertisementMessage.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\02AdvertisementMessage\bin\Debug\02AdvertisementMessage.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\02AdvertisementMessage\obj\Debug\02AdvertisementMessage.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\02AdvertisementMessage\obj\Debug\02AdvertisementMessage.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\02AdvertisementMessage\obj\Debug\02AdvertisementMessage.pdb

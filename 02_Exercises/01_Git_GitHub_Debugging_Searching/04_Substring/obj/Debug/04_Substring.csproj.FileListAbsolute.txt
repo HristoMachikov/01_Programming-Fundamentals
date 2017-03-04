@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\04_Substring\bin\Debug\04_Substring.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\04_Substring\bin\Debug\04_Substring.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\04_Substring\bin\Debug\04_Substring.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\04_Substring\obj\Debug\04_Substring.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\04_Substring\obj\Debug\04_Substring.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\04_Substring\obj\Debug\04_Substring.pdb

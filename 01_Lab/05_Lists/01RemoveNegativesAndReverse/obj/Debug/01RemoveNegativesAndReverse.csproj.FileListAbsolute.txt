@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\05_Lists\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.pdb

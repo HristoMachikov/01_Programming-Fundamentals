@@ -1,0 +1,7 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\01_Git_GitHub_Debugging_Searching\01_Problem\bin\Debug\01_Problem.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\01_Problem\bin\Debug\01_Problem.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\01_Problem\bin\Debug\01_Problem.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\01_Problem\bin\Debug\01_Problem.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\01_Problem\obj\Debug\01_Problem.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\01_Problem\obj\Debug\01_Problem.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\01_Git_GitHub_Debugging_Searching\01_Problem\obj\Debug\01_Problem.pdb

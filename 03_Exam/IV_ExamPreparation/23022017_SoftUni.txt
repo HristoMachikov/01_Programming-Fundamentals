@@ -1,0 +1,12 @@
+когато масива се променя с LINQ се връща нова колекция, която трябва да се присвои.
+
+key=Regex.Escape(key)
+@"{key}...."  .*?
+
+^ and $ се включват от flag
+
+
+
+zad 4
+where(char.IsDigit)
+.Select(s=>s-'0')

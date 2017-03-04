@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\08CondenseArrayToNumber\bin\Debug\08CondenseArrayToNumber.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\08CondenseArrayToNumber\bin\Debug\08CondenseArrayToNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\08CondenseArrayToNumber\bin\Debug\08CondenseArrayToNumber.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\08CondenseArrayToNumber\obj\Debug\08CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\08CondenseArrayToNumber\obj\Debug\08CondenseArrayToNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\08CondenseArrayToNumber\obj\Debug\08CondenseArrayToNumber.pdb

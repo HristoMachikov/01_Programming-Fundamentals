@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\05ClosestTwoPoints\bin\Debug\05ClosestTwoPoints.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\05ClosestTwoPoints\bin\Debug\05ClosestTwoPoints.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\05ClosestTwoPoints\bin\Debug\05ClosestTwoPoints.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\05ClosestTwoPoints\obj\Debug\05ClosestTwoPoints.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\05ClosestTwoPoints\obj\Debug\05ClosestTwoPoints.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\05ClosestTwoPoints\obj\Debug\05ClosestTwoPoints.pdb

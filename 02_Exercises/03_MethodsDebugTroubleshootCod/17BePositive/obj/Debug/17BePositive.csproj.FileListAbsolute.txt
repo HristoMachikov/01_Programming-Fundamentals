@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\17BePositive\bin\Debug\17BePositive.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\17BePositive\bin\Debug\17BePositive.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\17BePositive\bin\Debug\17BePositive.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\17BePositive\obj\Debug\17BePositive.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\17BePositive\obj\Debug\17BePositive.pdb

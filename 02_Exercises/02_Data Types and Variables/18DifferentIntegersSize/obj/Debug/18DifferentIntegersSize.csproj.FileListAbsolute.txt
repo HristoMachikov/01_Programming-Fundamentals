@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.pdb

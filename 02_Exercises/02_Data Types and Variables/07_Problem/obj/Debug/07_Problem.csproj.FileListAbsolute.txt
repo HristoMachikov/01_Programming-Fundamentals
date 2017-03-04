@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\07_Problem\bin\Debug\07_Problem.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\07_Problem\bin\Debug\07_Problem.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\07_Problem\bin\Debug\07_Problem.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\07_Problem\obj\Debug\07_Problem.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\07_Problem\obj\Debug\07_Problem.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\07_Problem\obj\Debug\07_Problem.csprojResolveAssemblyReference.cache

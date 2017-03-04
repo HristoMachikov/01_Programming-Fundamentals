@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\02OddOccurrences\bin\Debug\02OddOccurrences.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\02OddOccurrences\obj\Debug\02OddOccurrences.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\02OddOccurrences\bin\Debug\02OddOccurrences.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\02OddOccurrences\bin\Debug\02OddOccurrences.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\02OddOccurrences\obj\Debug\02OddOccurrences.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\02OddOccurrences\obj\Debug\02OddOccurrences.pdb

@@ -1,0 +1,12 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\02ArrayManipulator\bin\Debug\02ArrayManipulator.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\02ArrayManipulator\bin\Debug\02ArrayManipulator.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\02ArrayManipulator\bin\Debug\02ArrayManipulator.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\02ArrayManipulator\obj\Debug\02ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\02ArrayManipulator\obj\Debug\02ArrayManipulator.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\02ArrayManipulator\obj\Debug\02ArrayManipulator.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\02ArrayManipulator\bin\Debug\02ArrayManipulator.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\02ArrayManipulator\obj\Debug\02ArrayManipulator.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\02ArrayManipulator\obj\Debug\02ArrayManipulator.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\02ArrayManipulator\bin\Debug\02ArrayManipulator.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\02ArrayManipulator\bin\Debug\02ArrayManipulator.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\02ArrayManipulator\obj\Debug\02ArrayManipulator.csprojResolveAssemblyReference.cache

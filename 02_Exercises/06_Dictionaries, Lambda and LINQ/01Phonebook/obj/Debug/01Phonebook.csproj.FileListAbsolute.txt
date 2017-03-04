@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\01Phonebook\bin\Debug\01Phonebook.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\01Phonebook\bin\Debug\01Phonebook.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\01Phonebook\bin\Debug\01Phonebook.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\01Phonebook\obj\Debug\01Phonebook.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\01Phonebook\obj\Debug\01Phonebook.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\01Phonebook\obj\Debug\01Phonebook.pdb

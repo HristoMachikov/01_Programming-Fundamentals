@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\05ShortWordsSorted\bin\Debug\05ShortWordsSorted.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\05ShortWordsSorted\obj\Debug\05ShortWordsSorted.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\05ShortWordsSorted\bin\Debug\05ShortWordsSorted.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\05ShortWordsSorted\bin\Debug\05ShortWordsSorted.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\05ShortWordsSorted\obj\Debug\05ShortWordsSorted.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\05ShortWordsSorted\obj\Debug\05ShortWordsSorted.pdb

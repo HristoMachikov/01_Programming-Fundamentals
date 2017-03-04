@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\01BlankReceipt\bin\Debug\01BlankReceipt.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\01BlankReceipt\bin\Debug\01BlankReceipt.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\01BlankReceipt\bin\Debug\01BlankReceipt.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\01BlankReceipt\obj\Debug\01BlankReceipt.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\01BlankReceipt\obj\Debug\01BlankReceipt.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\01BlankReceipt\obj\Debug\01BlankReceipt.pdb

@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\03WordCount\bin\Debug\03WordCount.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\03WordCount\bin\Debug\03WordCount.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\03WordCount\bin\Debug\03WordCount.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\03WordCount\obj\Debug\03WordCount.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\03WordCount\obj\Debug\03WordCount.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\03WordCount\obj\Debug\03WordCount.pdb

@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\15FastPrimeChecker\bin\Debug\15FastPrimeChecker.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\15FastPrimeChecker\bin\Debug\15FastPrimeChecker.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\15FastPrimeChecker\bin\Debug\15FastPrimeChecker.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\15FastPrimeChecker\obj\Debug\15FastPrimeChecker.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\15FastPrimeChecker\obj\Debug\15FastPrimeChecker.pdb

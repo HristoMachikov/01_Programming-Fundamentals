@@ -1,0 +1,7 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\b\System.Numerics.4.0.0.0.Fakes.xml
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\b\System.Numerics.4.0.0.0.Fakes.dll
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\b\System.Numerics.4.0.0.0.Fakes.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\o\f.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\o\System.Numerics.4.0.0.0.Fakes.dll
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\10CenturiesToNanoseconds\obj\Debug\Fakes\sn\o\System.Numerics.4.0.0.0.Fakes.pdb

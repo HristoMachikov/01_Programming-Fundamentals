@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\02RotateAndSum\bin\Debug\02RotateAndSum.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\02RotateAndSum\obj\Debug\02RotateAndSum.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\02RotateAndSum\bin\Debug\02RotateAndSum.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\02RotateAndSum\bin\Debug\02RotateAndSum.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\02RotateAndSum\obj\Debug\02RotateAndSum.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\02RotateAndSum\obj\Debug\02RotateAndSum.pdb

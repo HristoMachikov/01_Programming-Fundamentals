@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\10StudentGroups\bin\Debug\10StudentGroups.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\10StudentGroups\bin\Debug\10StudentGroups.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\10StudentGroups\bin\Debug\10StudentGroups.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\10StudentGroups\obj\Debug\10StudentGroups.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\07_Objects and Classes\10StudentGroups\obj\Debug\10StudentGroups.pdb

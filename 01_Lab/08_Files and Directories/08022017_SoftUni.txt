@@ -1,0 +1,57 @@
+string file = File.ReadAllText(../"file.txt");
+cd ../ - една дирекрория нагоре
+.Perant (родител) горна директория 
+
+string file ="file.txt";
+var lines = File.Read=AllLines(file);
+
+for(i=0 i<line.Length i++)
+
+
+
+cw(fileInfo.Extension)
+cw(fileInfo.Length) - дъжина в битове
+cw(fileInfo.Length/1024.0) - дъжина в байтове
+
+File.Move(file,"${../file}") - преместв фаила
+File.Move(file,"amaterfile.txt") - преименува файла
+
+Environmant.NewLine
+\r\n
+
+рекурсия  - метод който извиква себе си , докато може.
+
+var currentDir = Directory.GetCurrentDitectory(); -текуща дир.
+cw(currentDir);
+CRL();
+
+var dirInfo=new DIrInfo
+
+C: не е директория,а е null
+
+var getFile=Directory
+.Select(f=>new FileInfo(f)
+.sum(f=>f.Length/1024.0/1024.0)
+
+4.45 - зад. 1
+
+cach(Exeption ex)
+{
+cw(ex.Message)
+cw(ex.StackTrace)
+}
+
+
+try
+{
+}
+finaly - изпълнява се винаги
+
+{
+cw("Finaly!")
+
+}
+if(n<0)
+{
+Trow new OutOfRangeExeption("ffdgfd")
+}

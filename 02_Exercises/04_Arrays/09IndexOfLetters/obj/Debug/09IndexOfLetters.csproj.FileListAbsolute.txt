@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\09IndexOfLetters\bin\Debug\09IndexOfLetters.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\09IndexOfLetters\bin\Debug\09IndexOfLetters.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\09IndexOfLetters\bin\Debug\09IndexOfLetters.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\09IndexOfLetters\obj\Debug\09IndexOfLetters.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\09IndexOfLetters\obj\Debug\09IndexOfLetters.pdb

@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\02ExtractSentencesByKeyword\bin\Debug\02ExtractSentencesByKeyword.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\02ExtractSentencesByKeyword\bin\Debug\02ExtractSentencesByKeyword.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\02ExtractSentencesByKeyword\bin\Debug\02ExtractSentencesByKeyword.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\02ExtractSentencesByKeyword\obj\Debug\02ExtractSentencesByKeyword.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\02ExtractSentencesByKeyword\obj\Debug\02ExtractSentencesByKeyword.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\02ExtractSentencesByKeyword\obj\Debug\02ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache

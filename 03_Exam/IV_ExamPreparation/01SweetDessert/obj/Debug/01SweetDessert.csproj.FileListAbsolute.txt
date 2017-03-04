@@ -1,0 +1,12 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\01SweetDessert\bin\Debug\01SweetDessert.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\01SweetDessert\bin\Debug\01SweetDessert.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\01SweetDessert\bin\Debug\01SweetDessert.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\01SweetDessert\obj\Debug\01SweetDessert.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\01SweetDessert\obj\Debug\01SweetDessert.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_Exam\01SweetDessert\obj\Debug\01SweetDessert.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\01SweetDessert\bin\Debug\01SweetDessert.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\01SweetDessert\obj\Debug\01SweetDessert.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\01SweetDessert\obj\Debug\01SweetDessert.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\01SweetDessert\bin\Debug\01SweetDessert.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\01SweetDessert\bin\Debug\01SweetDessert.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\IV_ExamPreparation\01SweetDessert\obj\Debug\01SweetDessert.csprojResolveAssemblyReference.cache

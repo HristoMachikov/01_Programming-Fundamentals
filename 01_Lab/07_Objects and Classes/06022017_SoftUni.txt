@@ -1,0 +1,45 @@
+public class Cat
+{
+public string Name {get;set;}
+
+public int Age {get;set;}  (ako е read-only има само get)
+public string SayHello()  - - НЕ СЕ ПИШЕ Static
+{
+if(IsASleeeping)
+{
+"I am sleeping"
+}
+return $"Hi, I am{Name}. I am {Age} years old!  ";
+}
+}
+
+При създаване на свойства на класа имената са с главна буква.
+
+var cat = new Cat
+{
+Name="Ivan",
+Age=10
+};
+
+var cat = new Cat();
+cat.Name="Ivan";
+cat.Age=10;
+
+currentinfo.InvariantCulture;
+
+static - методи които се извикват без инстанциране (нямат нужда от instance)
+var currentTime =DateTime.Now;
+Статичните неща се извикват директно от класа.
+
+Random - винаги се създава само един random, и от него се извикват случайни числа. Не се създават два рандума.
+
+System.Net;
+System.IO;
+
+shufflе algoritem C# - алгоритъм за размешване
+
+
+File.WriteAllText("","");
+
+/www.youtube.com/watch?v=N-AlTemCnMc&t=24m55s  ---33min
+

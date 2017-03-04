@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\04CharacterMultiplier\bin\Debug\04CharacterMultiplier.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\04CharacterMultiplier\bin\Debug\04CharacterMultiplier.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\04CharacterMultiplier\bin\Debug\04CharacterMultiplier.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\04CharacterMultiplier\obj\Debug\04CharacterMultiplier.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\04CharacterMultiplier\obj\Debug\04CharacterMultiplier.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\04CharacterMultiplier\obj\Debug\04CharacterMultiplier.pdb

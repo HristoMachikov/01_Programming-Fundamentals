@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\01CountRealNumbers\bin\Debug\01CountRealNumbers.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\01CountRealNumbers\bin\Debug\01CountRealNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\01CountRealNumbers\bin\Debug\01CountRealNumbers.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\01CountRealNumbers\obj\Debug\01CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\01CountRealNumbers\obj\Debug\01CountRealNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\06_Dictionaries, Lambda and LINQ\01CountRealNumbers\obj\Debug\01CountRealNumbers.pdb

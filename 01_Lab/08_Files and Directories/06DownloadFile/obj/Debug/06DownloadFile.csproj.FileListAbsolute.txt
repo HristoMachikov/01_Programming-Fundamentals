@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\06DownloadFile\bin\Debug\06DownloadFile.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\06DownloadFile\bin\Debug\06DownloadFile.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\06DownloadFile\bin\Debug\06DownloadFile.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\06DownloadFile\obj\Debug\06DownloadFile.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\08_Files and Directories\06DownloadFile\obj\Debug\06DownloadFile.pdb

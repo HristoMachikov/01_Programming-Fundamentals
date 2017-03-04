@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\08MostFrequentNumber\obj\Debug\08MostFrequentNumber.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\08MostFrequentNumber\obj\Debug\08MostFrequentNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\08MostFrequentNumber\obj\Debug\08MostFrequentNumber.pdb

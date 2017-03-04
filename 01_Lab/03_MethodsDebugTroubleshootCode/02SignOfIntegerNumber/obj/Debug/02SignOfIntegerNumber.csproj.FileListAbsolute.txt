@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\02SignOfIntegerNumber\bin\Debug\02SignOfIntegerNumber.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\02SignOfIntegerNumber\bin\Debug\02SignOfIntegerNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\02SignOfIntegerNumber\bin\Debug\02SignOfIntegerNumber.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\02SignOfIntegerNumber\obj\Debug\02SignOfIntegerNumber.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\02SignOfIntegerNumber\obj\Debug\02SignOfIntegerNumber.pdb

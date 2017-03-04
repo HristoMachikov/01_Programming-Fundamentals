@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\03NetherRealms\bin\Debug\03NetherRealms.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\03NetherRealms\bin\Debug\03NetherRealms.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\03NetherRealms\bin\Debug\03NetherRealms.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\03NetherRealms\obj\Debug\03NetherRealms.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\03NetherRealms\obj\Debug\03NetherRealms.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\03NetherRealms\obj\Debug\03NetherRealms.csprojResolveAssemblyReference.cache

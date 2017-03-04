@@ -1,0 +1,36 @@
+годините в DateTime са до 9996 след това гърми.
+
+seconds=totalSeconds%60;
+totalMinutes=totalSeconds/60;
+minutes=totalMinutes%60;
+totalHours=totoalMinutes/60;
+hours=totalHoures%24;
+{0:00}
+
+втори вариант с процентно делене %24 - 14:40-часа;
+
+зад.2
+
+var participants=CRL
+.Split(new[]{','},strspop,rem)
+.Select(p=>p.Trim)
+.ToArray(); 
+
+result.count!=0  = result.Any() - ако има поне един
+
+
+зад.3 - 15.30
+
+зад.4 - 15.50
+
+var left =newstring(ticket.take(10).toArray());
+var right=newstring(ticket..Skip(10).toArray());
+var winingSimbol=new String[]{"@", "#","\\$","\\^"};
+var regex=new Regex("{0}{1}",winingSimbol=new ,{6,});
+
+зад.4 - 16.05 - с фор цикли
+
+true false 0 1
+?
+:
+

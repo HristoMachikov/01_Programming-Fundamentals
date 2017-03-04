@@ -1,0 +1,16 @@
+BitInt
+DECIMAL FLOAT
+Literal - начин на описване на типове данни когато слагаме стойност.
+float a = 12.34F;
+
+int intSize = (int) size; 
+експлицитно кастване
+
+
+text.Trim();
+string a = string.Empty
+string text=@"  t123  ";
+
+@ - за мултилайн текст. Приема всичко без кавичките.
+$ - може да се подпъхват стоиности  в {}
+ Console.WriteLine($ "Area is: {area}");

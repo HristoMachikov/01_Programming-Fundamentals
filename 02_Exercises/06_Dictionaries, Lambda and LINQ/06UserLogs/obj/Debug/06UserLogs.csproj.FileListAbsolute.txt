@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\06UserLogs\bin\Debug\06UserLogs.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\06UserLogs\bin\Debug\06UserLogs.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\06UserLogs\bin\Debug\06UserLogs.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\06UserLogs\obj\Debug\06UserLogs.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\06UserLogs\obj\Debug\06UserLogs.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\06UserLogs\obj\Debug\06UserLogs.pdb

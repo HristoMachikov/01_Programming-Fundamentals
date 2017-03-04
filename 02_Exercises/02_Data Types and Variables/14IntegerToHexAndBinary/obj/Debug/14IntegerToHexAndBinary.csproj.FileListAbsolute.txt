@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\14IntegerToHexAndBinary\obj\Debug\14IntegerToHexAndBinary.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\14IntegerToHexAndBinary\obj\Debug\14IntegerToHexAndBinary.pdb

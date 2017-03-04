@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\02CountSubstringOccurrences\bin\Debug\02CountSubstringOccurrences.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\02CountSubstringOccurrences\bin\Debug\02CountSubstringOccurrences.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\02CountSubstringOccurrences\bin\Debug\02CountSubstringOccurrences.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\02CountSubstringOccurrences\obj\Debug\02CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\02CountSubstringOccurrences\obj\Debug\02CountSubstringOccurrences.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\09_Strings\02CountSubstringOccurrences\obj\Debug\02CountSubstringOccurrences.pdb

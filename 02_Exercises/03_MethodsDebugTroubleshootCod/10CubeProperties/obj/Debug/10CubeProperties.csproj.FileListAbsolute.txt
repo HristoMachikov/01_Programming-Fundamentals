@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\10CubeProperties\bin\Debug\10CubeProperties.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\10CubeProperties\bin\Debug\10CubeProperties.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\10CubeProperties\bin\Debug\10CubeProperties.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\10CubeProperties\obj\Debug\10CubeProperties.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\10CubeProperties\obj\Debug\10CubeProperties.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\10CubeProperties\obj\Debug\10CubeProperties.pdb

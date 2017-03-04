@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\15Substring\bin\Debug\15Substring.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\15Substring\bin\Debug\15Substring.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\15Substring\bin\Debug\15Substring.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\15Substring\obj\Debug\15Substring.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\15Substring\obj\Debug\15Substring.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\03_MethodsDebugTroubleshootCod\15Substring\obj\Debug\15Substring.pdb

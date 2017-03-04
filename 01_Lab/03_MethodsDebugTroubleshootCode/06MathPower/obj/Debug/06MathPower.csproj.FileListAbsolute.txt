@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\06MathPower\bin\Debug\06MathPower.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\06MathPower\bin\Debug\06MathPower.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\06MathPower\bin\Debug\06MathPower.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\06MathPower\obj\Debug\06MathPower.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\06MathPower\obj\Debug\06MathPower.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\06MathPower\obj\Debug\06MathPower.csprojResolveAssemblyReference.cache

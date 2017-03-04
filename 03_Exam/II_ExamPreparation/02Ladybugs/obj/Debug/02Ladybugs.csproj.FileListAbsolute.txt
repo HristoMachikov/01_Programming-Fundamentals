@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\02Ladybugs\bin\Debug\02Ladybugs.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\02Ladybugs\bin\Debug\02Ladybugs.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\02Ladybugs\bin\Debug\02Ladybugs.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\02Ladybugs\obj\Debug\02Ladybugs.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\02Ladybugs\obj\Debug\02Ladybugs.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\03_Exam\II_ExamPreparation\02Ladybugs\obj\Debug\02Ladybugs.csprojResolveAssemblyReference.cache

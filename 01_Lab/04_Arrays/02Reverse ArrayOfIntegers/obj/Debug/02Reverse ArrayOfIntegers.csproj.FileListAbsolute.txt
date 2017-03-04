@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\02Reverse ArrayOfIntegers\bin\Debug\02Reverse ArrayOfIntegers.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\02Reverse ArrayOfIntegers\bin\Debug\02Reverse ArrayOfIntegers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\02Reverse ArrayOfIntegers\bin\Debug\02Reverse ArrayOfIntegers.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\02Reverse ArrayOfIntegers\obj\Debug\02Reverse ArrayOfIntegers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\04_Arrays\02Reverse ArrayOfIntegers\obj\Debug\02Reverse ArrayOfIntegers.pdb

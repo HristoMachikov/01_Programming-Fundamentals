@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\17PrintPartOfASCIITable\bin\Debug\17PrintPartOfASCIITable.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\17PrintPartOfASCIITable\bin\Debug\17PrintPartOfASCIITable.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\17PrintPartOfASCIITable\bin\Debug\17PrintPartOfASCIITable.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\17PrintPartOfASCIITable\obj\Debug\17PrintPartOfASCIITable.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\02_Data Types and Variables\17PrintPartOfASCIITable\obj\Debug\17PrintPartOfASCIITable.pdb

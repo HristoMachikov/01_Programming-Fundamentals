@@ -1,0 +1,104 @@
+using System.Collections.Generic;
+
+Dictionary<string, int> dict = new Dictionary<string, int>();
+var dict = new Dictionary<string, int>();
+
+bool exist=dict.ContainKay("Maria"); //true or false
+
+var dictionary = dict.Kays;
+var dictionary = dict.Value;
+
+foreach( var item in dict.Reverce())
+{
+cw(dict.Kays);
+cw(dict.Value);
+}
+
+foreach( var item in dict) (var замества KeyValuePair<string,int>)
+{
+cw(item);
+}
+
+var marks = new dictionary <string, new List<int>>();
+marks["Pesho"] =new List<int>{1, 2, 3};
+cw(string.join(", ",marks["Pesho"]));
+
+list.Clear() - занулява същ.лист
+
+
+dict["Pesho"]=10; - заменя елемент
+dict.Add("Pesho",10) - добавя елемент и ако го има гърми.
+
+dict.ContainKey("Pesho") - препорачителна проверка преди dict.Add
+dict.ContainValue(5) - по-рядко се използва
+
+Речника пази уникални стойности с закачени към тях други уник. стoйности.
+
+14.50 - tryParse - опитва да parse-не стоиност върху същ.елементи
+TryGetValue() 
+
+Hash Functoin - казва на речника какво да прави. На съответня key  точно коя стойност отговаря.
+
+foreach( var word in words)
+{
+if(!wordCount.ContainsKey(word)
+{
+wordCount[word]=0; - инициализира word
+}
+wordCount[word]++;
+}
+
+snipets - https://softuni.bg/trainings/resources/video/10802/kak-da-si-napravim-snippet-programming-basics-september-2016
+
+SortedDictionary<K, V> - сортира колекцията по Key
+
+var text="fsdfa edsdfa ersafasf"
+	.ToLower()
+	.Replace(" ",Empty.String);
+
+Lambda Functions and LINQ
+=> замества { retutn в метод }
+Lambda Functions - максимално съктащават даден метод
+
+.Select(text=> int.Parse(text)); -Lambda израз
+
+.OrderBy(n=>n);
+.OrderByDescending(num => num) - обратно сортиране
+
+Dictionary<int, string> sortedDict = products
+			.OrderBy(pair => pair.Value)
+			.ThenBy(pair => pair.Key) - втори критерри за сортиране след OrderBy()
+.ToDictionary() -  задава се кой key и коя value да ползва
+
+CRL .....  .ToList().ForEach(CW); - решение на 1 ред 
+
+public static bool IsEven(int number)
+{
+return number%2==0;
+}
+съкратения вариант е:
+.where(n=>n%2==0) - задължително се създава нова колекция
+.toArray();
+
+.wheren(n=>n>5 &&n<10)  .Count(n=>n>5 &&n<10)
+.All(n=>n>5 &&n<10) - true or false
+
+.select(n=> 2*n+1) - за всяко число ми намери израза
+.select(   )
+.select(int.Parse)
+
+.Distict() - връща уникалните
+
+var first= list.First(n=>n%2==0)
+var last=list.Last(n=>n%2==0)
+var single = list.Single(n=>n%5==0) - единствен
+
+var rabbit=word.FirstOrDefaut(w=>w="cat"); - използва се главно за стрингове с нулеви стоиности
+
+.Concat(otherNums); 
+.Reverse(); 
+
+var result=firstrow.Zip(secondrow,(x,y)=>x+y)).toList.ForEach(cw);
+
+
+

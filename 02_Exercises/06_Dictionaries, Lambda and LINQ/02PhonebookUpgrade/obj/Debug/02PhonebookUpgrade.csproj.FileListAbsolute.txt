@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\02PhonebookUpgrade\bin\Debug\02PhonebookUpgrade.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\02PhonebookUpgrade\bin\Debug\02PhonebookUpgrade.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\02PhonebookUpgrade\bin\Debug\02PhonebookUpgrade.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\02PhonebookUpgrade\obj\Debug\02PhonebookUpgrade.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\06_Dictionaries, Lambda and LINQ\02PhonebookUpgrade\obj\Debug\02PhonebookUpgrade.pdb

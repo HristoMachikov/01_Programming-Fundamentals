@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\06RectanglePosition\bin\Debug\06RectanglePosition.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\06RectanglePosition\obj\Debug\06RectanglePosition.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\06RectanglePosition\bin\Debug\06RectanglePosition.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\06RectanglePosition\bin\Debug\06RectanglePosition.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\06RectanglePosition\obj\Debug\06RectanglePosition.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\07_Objects and Classes\06RectanglePosition\obj\Debug\06RectanglePosition.pdb

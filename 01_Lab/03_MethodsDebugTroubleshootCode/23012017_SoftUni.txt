@@ -1,0 +1,23 @@
+Ctrl + M + O - затваря методите
+Ctrl + M + L - отваря методите
+Ctrl + . + Enter - променя всички подобни.
+(param int[] number)- подаваме колкото int-тове искаме
+Ctrl + . + Enter - създава масиви декларирани преди това.
+
+class Libery - съсздава метод.
+
+Add.
+public static class name
+
+if(a.CompareTo(b)<0)
+{
+return b;
+}
+
+foreach (var symbol in number.string())
+var digit=symbol -'0';
+
+F11 - влиза и в метода.
+
+StyleCope
+/// - изкарва документация за метода.

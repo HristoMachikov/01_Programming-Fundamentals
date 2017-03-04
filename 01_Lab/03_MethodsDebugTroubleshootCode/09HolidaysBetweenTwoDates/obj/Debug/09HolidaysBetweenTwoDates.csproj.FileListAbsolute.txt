@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\09HolidaysBetweenTwoDates\bin\Debug\09HolidaysBetweenTwoDates.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\09HolidaysBetweenTwoDates\bin\Debug\09HolidaysBetweenTwoDates.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\09HolidaysBetweenTwoDates\bin\Debug\09HolidaysBetweenTwoDates.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\09HolidaysBetweenTwoDates\obj\Debug\09HolidaysBetweenTwoDates.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\09HolidaysBetweenTwoDates\obj\Debug\09HolidaysBetweenTwoDates.pdb

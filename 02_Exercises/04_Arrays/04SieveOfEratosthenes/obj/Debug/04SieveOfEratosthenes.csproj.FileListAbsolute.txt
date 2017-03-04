@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\04SieveOfEratosthenes\bin\Debug\04SieveOfEratosthenes.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\04SieveOfEratosthenes\bin\Debug\04SieveOfEratosthenes.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\04SieveOfEratosthenes\bin\Debug\04SieveOfEratosthenes.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\04SieveOfEratosthenes\obj\Debug\04SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\04SieveOfEratosthenes\obj\Debug\04SieveOfEratosthenes.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\04_Arrays\04SieveOfEratosthenes\obj\Debug\04SieveOfEratosthenes.pdb

@@ -1,0 +1,5 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\08LettersChangeNumbers\bin\Debug\08LettersChangeNumbers.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\08LettersChangeNumbers\bin\Debug\08LettersChangeNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\08LettersChangeNumbers\bin\Debug\08LettersChangeNumbers.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\08LettersChangeNumbers\obj\Debug\08LettersChangeNumbers.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\09_Strings\08LettersChangeNumbers\obj\Debug\08LettersChangeNumbers.pdb

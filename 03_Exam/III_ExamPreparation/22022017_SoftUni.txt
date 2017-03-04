@@ -1,0 +1,5 @@
+Ctrl + D - копира реда;
+преди въртене наляво иили надясно се слага:
+restNumbOfRotation=numbOfRotations%array.Length;
+
+zad3,4 след 15.20

@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\04DrawAFilledSquare\bin\Debug\04DrawAFilledSquare.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\04DrawAFilledSquare\bin\Debug\04DrawAFilledSquare.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\04DrawAFilledSquare\bin\Debug\04DrawAFilledSquare.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\04DrawAFilledSquare\obj\Debug\04DrawAFilledSquare.csprojResolveAssemblyReference.cache
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\04DrawAFilledSquare\obj\Debug\04DrawAFilledSquare.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\01_Lab\03_MethodsDebugTroubleshootCode\04DrawAFilledSquare\obj\Debug\04DrawAFilledSquare.pdb

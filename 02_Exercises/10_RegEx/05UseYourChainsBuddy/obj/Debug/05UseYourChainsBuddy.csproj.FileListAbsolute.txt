@@ -1,0 +1,6 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\05UseYourChainsBuddy\bin\Debug\05UseYourChainsBuddy.exe.config
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\05UseYourChainsBuddy\bin\Debug\05UseYourChainsBuddy.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\05UseYourChainsBuddy\bin\Debug\05UseYourChainsBuddy.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\05UseYourChainsBuddy\obj\Debug\05UseYourChainsBuddy.exe
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\05UseYourChainsBuddy\obj\Debug\05UseYourChainsBuddy.pdb
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\10_RegEx\05UseYourChainsBuddy\obj\Debug\05UseYourChainsBuddy.csprojResolveAssemblyReference.cache

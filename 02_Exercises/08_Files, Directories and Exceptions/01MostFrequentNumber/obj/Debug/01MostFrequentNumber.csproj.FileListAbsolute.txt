@@ -1,0 +1,1 @@
+D:\Hristo\SoftUni\06_Technology Fundamentals\01_Programming Fundamentals\02_Exercises\08_Files, Directories and Exceptions\01MostFrequentNumber\bin\Debug\01MostFrequentNumber.exe.config
