@@ -1,10 +1,10 @@
 # 01_Programming-Fundamentals
 All course Programming Fundamentals in SoftUni
 
-01. Git and GitHub
--Lab - 16.01.2017
--Exercises - 17.01.2017
-
+<strong>01. Git and GitHub</strong></br>
+<a href="https://github.com/HristoMachikov/01_Programming-Fundamentals/tree/master/01_Lab/01_Git_GitHub_Debugging_Searching"> -Lab - 16.01.2017</a></br>
+<a href="">-Exercises - 17.01.2017</a></br>
+</br>
 02. Data Types and Variables
 -Lab - 18.01.2017
 -Exercises - 19.01.2017
@@ -45,4 +45,4 @@ Exam Preparation I - 20.02.2017
 Exam Preparation II - 21.02.2017
 Exam Preparation III - 22.02.2017
 Exam Preparation IV - 23.02.2017
-Practical Åxam - 26.02.2017
+Practical Ã…xam - 26.02.2017
