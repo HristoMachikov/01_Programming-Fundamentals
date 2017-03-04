@@ -2,8 +2,8 @@
 All course Programming Fundamentals in SoftUni
 
 <strong>01. Git and GitHub</strong></br>
-<a href="https://github.com/HristoMachikov/01_Programming-Fundamentals/tree/master/01_Lab/01_Git_GitHub_Debugging_Searching"> -Lab - 16.01.2017</a></br>
-<a href="">-Exercises - 17.01.2017</a></br>
+<a href="https://github.com/HristoMachikov/01_Programming-Fundamentals/tree/master/01_Lab/01_Git_GitHub_Debugging_Searching">7<em>Lab - 16.01.20177</em></a></br>
+<a href="https://github.com/HristoMachikov/01_Programming-Fundamentals/tree/master/02_Exercises/01_Git_GitHub_Debugging_Searching"><em>Exercises - 17.01.2017</em></a></br>
 </br>
 02. Data Types and Variables
 -Lab - 18.01.2017
